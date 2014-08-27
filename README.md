@@ -14,4 +14,4 @@ Using FVGravityView is simple. You can either drag and drop a UIView to the inte
 
 -Say you want to invert the gravity. Just set the isInverse to YES.
 
-Remember that FVGravityView is basically a UIView, so you may add subviews to it. It also has every drawing capabilities that an ordinary UIView has. You can also change its superclass to another class that inherits from UIView(e.g. UITextField, UIButton, UISwitch).
+Remember that FVGravityView is basically a UIView, so you may add subviews to it. It also has the very same drawing capabilities that UIView has. You can also change its superclass to another class that inherits from UIView(e.g. UITextField, UIButton, UISwitch).
