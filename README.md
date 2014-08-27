@@ -6,7 +6,7 @@ FVGravityView is basically a UIView that has the ability to fall. Yes, to fall. 
 Usage
 -----
 
-Using FVGravityView is simple. You can either drag and drop a UIView to the interface builder and change its class to FVGravityView or you can also use the classic [[FVGravityView alloc] init]. It works out of the box, but you can customize its behavior if you want.
+Using FVGravityView is simple. You can either drag and drop a UIView to the interface builder and change its class to FVGravityView or you can also use the classic [[FVGravityView alloc] init]. It works out of the box, but you can customize its behavior to make it fit your needs.
 
 -The default velocity is 20, but you may change this value by changing the velocity property.
 
